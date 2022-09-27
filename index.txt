@@ -1,2 +1,3 @@
 hi
 this is new git bash user
+i completed my first git repository
